@@ -8,7 +8,7 @@ body {
 
 .box {
     width: 300px;
-    background-color: white;
+    background-color: rgb(247, 240, 240);
     padding: 20px;
     border-radius: 18px;
     display: flex;
